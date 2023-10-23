@@ -1,3 +1,3 @@
 print("work!")
-
+print("Работа!")
 
